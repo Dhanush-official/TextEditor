@@ -12,3 +12,12 @@ JUST SIMPLE ONE
 $ cc  filename.c -o filename -Wall -Wextra -pedantic -std=c99 
 
 $ ./filename
+
+
+# SHORTCUTS
+
+EDIT MODE BY DEFAULT
+
+CTRL - s = save
+CTRL - f = find 
+CTRL - q = quit
