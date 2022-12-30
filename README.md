@@ -7,6 +7,6 @@ NOT VERY MUCH FANCY
 
 JUST SIMPLE ONE
 
-#compiling
+# compiling
 
 $ cc  filename.c -o filname -Wall -Wextra -pedantic -std=c99 
