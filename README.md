@@ -18,6 +18,6 @@ $ ./filename
 
 EDIT MODE BY DEFAULT
 
-CTRL - s = save
-CTRL - f = find 
-CTRL - q = quit
+## CTRL - s = save
+## CTRL - f = find 
+## CTRL - q = quit
