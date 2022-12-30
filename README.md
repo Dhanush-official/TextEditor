@@ -9,7 +9,7 @@ JUST SIMPLE ONE
 
 # compiling
 
-$ cc  filename.c -o filename -Wall -Wextra -pedantic -std=c99 
+$ cc mini_text_editor.c  -o mini_text_editor -Wall -Wextra -pedantic -std=c99 
 
 $ ./filename
 
