@@ -10,3 +10,5 @@ JUST SIMPLE ONE
 # compiling
 
 $ cc  filename.c -o filname -Wall -Wextra -pedantic -std=c99 
+
+$ ./filename
